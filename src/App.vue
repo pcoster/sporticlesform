@@ -50,7 +50,7 @@ export default {
   name: 'App',
 
   components: {
-    HelloWorld,
+    SporticlesForm,
   },
 
   data: () => ({
